@@ -1,0 +1,21 @@
+ Lets learn Python 
+
+Day1
+...............................................................................
+Core Basic
+................................................................................
+1.installation
+2.input /output function
+3.datatype/variable/operators
+4.conditional statement
+5.loop/break/continue statement
+5.Basic Built-in data type in python [string/list/tuple/sets/dictionary]
+6.function
+7.type conversion
+8.Decorator in python
+9.Task-1
+10.Task-2
+
+
+
+Extra dose- Basic git command
